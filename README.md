@@ -1,7 +1,7 @@
-# Vrinda-Stores-Annual-Report-of-2022-23
+# Vrinda-Stores-Annual-Report-of-2024-25
 
 # Project Tittel:
-## Vrinda Stores Annual Report of 2022 & 23
+## Vrinda Stores Annual Report of 2024 & 25
 ### Dash Borad:-
 ![Image](https://github.com/user-attachments/assets/beaba711-e358-4af4-b272-13544239c3fd)
 
